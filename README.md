@@ -1,2 +1,2 @@
 # image_picker
-Image picker in android
+Image picker from camera and gallery in android
